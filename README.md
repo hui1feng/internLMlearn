@@ -106,6 +106,10 @@
   ![image](https://github.com/hui1feng/internLMlearn/assets/126125104/8c823b96-942b-4fc9-9138-5cb052d2d699)
 
 
+参考资料：书生·浦语大模型全链路开源体系
+链接：[bilibili.com/video/BV1Rc411b7ns/](https://www.bilibili.com/video/BV1Rc411b7ns/?vd_source=1451efee9af1bf2214b4d072f5760564)https://www.bilibili.com/video/BV1Rc411b7ns/?vd_source=1451efee9af1bf2214b4d072f5760564
+
+
 
 
 
